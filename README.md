@@ -2,7 +2,9 @@
 <img align='center' src='https://camo.githubusercontent.com/d0179193dd9d1ded63f03b52c0334ac03417c7c73d6e6bb5c6fb3fa6cca736bd/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f32343731312f73637265656e73686f74732f333838363030322f66616c636f6e5f70657273697374656e745f636f6e6e656374696f6e5f32782e676966' alt='dev_img' width='100%' height="400px" />
 
 
-<h1 align="center">Hi !!, I am Dhananjay kumar verma</h1>
+<img width="100%"
+  src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=F79912;size=20&amp;lines=Hello,+I+am+Dhananjay+kumar+verma;Full+Stack-web+Developer...;">
+
 I'm a passionate Full Stack Web developer skilled in MERN stack who likes to do experiments and always ready for learning new things 😃. I focuses on writing clean, elegant and efficient code ✨.
 
 - 🔭 I’m currently working on improving my skills.
