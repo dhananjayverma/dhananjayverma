@@ -12,13 +12,8 @@ I'm a passionate Full Stack Web developer skilled in MERN stack who likes to do 
 - 📫 How to reach me:dhananjaykumarverma088@gmail.com.
 - ⚡ My Motto: Never Stop Learning.
 I'm a passionate Full Stack Web developer skilled in MERN stack who likes to do experiments and always ready for learning new things 😃. I focuses on writing clean, elegant and efficient code ✨.
-
-
-
-
-
 <h5 align="left"><i>Portfolio --- </i>
-<a href=" https://dhananjayverma1.netlify.app/" src="https://img.shields.io/static/v1?style=for-the-badge&message=Portfolio&color=Teal&logo=tmux&logoColor=teal&label=" alt="Lybrate" /></a> 
+<a href="https://dhananjayverma1.netlify.app/" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Portfolio&color=Teal&logo=tmux&logoColor=teal&label=" alt="Lybrate" /></a> 
 </h5>
 
 ![living](https://img.shields.io/badge/living-EastChamparan,Bihar-maroon)
