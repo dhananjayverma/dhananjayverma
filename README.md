@@ -15,7 +15,9 @@ I'm a passionate Full Stack Web developer skilled in MERN stack who likes to do 
 <h5 align="left"><i>Portfolio --- </i>
 <a href="https://dhananjayverma1.netlify.app/" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Portfolio&color=Teal&logo=tmux&logoColor=teal&label=" alt="Lybrate" /></a> 
 </h5>
- <a href="https://drive.google.com/file/d/1Y7p679dOp9Fd-cSJQp5BVOcRZKIghS3L/view?usp=share_link" target="_blank" rel="noreferrer noopener">Resume</a> for more details.
+ <a href="https://drive.google.com/file/d/1Y7p679dOp9Fd-cSJQp5BVOcRZKIghS3L/view?usp=share_link" target="_blank" rel="noreferrer noopener">My Resume</a> for more details.
+ <br/>
+ 
 ![living](https://img.shields.io/badge/living-EastChamparan,Bihar-maroon)
 ![focus](https://img.shields.io/badge/focus-SoftwareDevelopment-teal)
 =============================
