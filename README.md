@@ -1,83 +1,107 @@
-<h1 align="center">Hi there, I'm Dhananjay Kumar Verma 👋</h1>
+<!-- ======================= HEADER ======================= -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Dhananjay%20Kumar%20Verma&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
+
+<h3 align="center">🚀 Full Stack Developer | MERN Stack | Building Scalable Applications</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=F79912&size=24&center=true&vCenter=true&lines=Full+Stack+Web+Developer;MERN+Stack+Specialist;Clean+%26+Efficient+Code+Lover;Lifelong+Learner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;MERN+Stack+Specialist;React+%7C+Node.js+%7C+MongoDB;Clean+Code+%2B+Scalable+Systems;Always+Learning+New+Tech" />
 </p>
 
 ---
 
-## 🙋‍♂️ About Me
-
-I'm a passionate **Full Stack Web Developer** with hands-on experience in the **MERN Stack**. I thrive on building high-performance, scalable web applications and continuously strive to improve my skill set through projects and learning.
-
-- 🔭 Currently focused on: Enhancing full-stack development skills & system design.
-- 🌱 Learning: Advanced React, TypeScript, Microservices, Docker.
-- 📫 Reach me at: [dhananjaykumarverma088@gmail.com](mailto:dhananjaykumarverma088@gmail.com)
-- ⚡ Motto: *Never Stop Learning*
-
----
-
-## 🧩 Portfolio & Resume
-
-- 🌐 **Portfolio**: [Visit Here](https://dhananjayverma1.netlify.app/)
-- 📄 **Resume**: [View PDF](https://drive.google.com/file/d/12lH0jpAiJ65XM6I3Sijuwzoy2bZBQekJ/view?usp=drive_link)
-
----
-
-## 🌍 Location & Focus
-
-![Location](https://img.shields.io/badge/Living-EastChamparan%2C%20Bihar-maroon)
-![Focus](https://img.shields.io/badge/Focus-Software%20Development-teal)
-
----
-
-## 🔗 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dhananjay-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/dhananjay-kumar-verma/)
-[![GitHub](https://img.shields.io/badge/GitHub-dhananjayverma-black?style=flat-square&logo=github)](https://github.com/dhananjayverma)
-
----
-
-## 💻 Tech Stack
-
-**Frontend:**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
-
-**Backend:**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-**Other Tools & Technologies:**
-![Git](https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Chakra UI](https://img.shields.io/badge/Chakra_UI-3bc7bd?style=for-the-badge&logo=chakraui&logoColor=white)
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
+<!-- ======================= BADGES ======================= -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhananjayverma&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhananjayverma&theme=github-dark&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhananjayverma&layout=compact&theme=github_dark&hide_border=true&langs_count=10" />
+  <img src="https://komarev.com/ghpvc/?username=dhananjayverma&label=Profile%20Views&color=0e75b6&style=flat" />
+  <a href="mailto:dhananjaykumarverma088@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/dhananjay-kumar-verma/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin"/>
+  </a>
 </p>
 
 ---
 
-## 📁 Projects & Contributions
+<!-- ======================= ABOUT ======================= -->
+## 👨‍💻 About Me
 
-> I love working on real-world applications and continuously build or contribute to meaningful projects that solve practical problems. Visit my repositories to explore more.
+- 💻 Full Stack Developer with **MERN Stack expertise**
+- ⚡ Building **scalable, high-performance applications**
+- 🧠 Strong focus on **system design & backend architecture**
+- 🚀 Experience with **real-world production-level projects**
+- 🌱 Currently learning **TypeScript, Microservices & Docker**
+- 📍 Based in **Bihar, India**
 
 ---
 
-Let me know if you want me to add a **Projects** section with featured repositories or a **Contributions** map next. Would you like that?
+<!-- ======================= SKILLS ======================= -->
+## 🛠️ Tech Stack
 
+<p align="center">
 
+<!-- Animated icons -->
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,redux,tailwind,html,css" />
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,postman,aws,vercel,netlify,docker" />
+
+</p>
+
+---
+
+<!-- ======================= STATS ======================= -->
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dhananjayverma&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhananjayverma&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhananjayverma&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+</p>
+
+---
+
+<!-- ======================= ACTIVITY GRAPH ======================= -->
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhananjayverma&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+<!-- ======================= SNAKE ======================= -->
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dhananjayverma/dhananjayverma/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+<!-- ======================= CONTACT ======================= -->
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://dhananjayverma1.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="mailto:dhananjaykumarverma088@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Send-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/dhananjay-kumar-verma/">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<!-- ======================= FOOTER ======================= -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+</p>
